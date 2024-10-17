@@ -19,3 +19,7 @@ for i in range(n2):
     
 ans = dot(arr1, arr2)
 print(f"The dot product of vectors is: {ans}")
+
+print("New changes added to master")
+
+print("More changes added")
