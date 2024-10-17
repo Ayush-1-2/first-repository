@@ -18,4 +18,4 @@ for i in range(n2):
     arr2.append(int(input(f"arr2[{i}] = ")))
     
 ans = dot(arr1, arr2)
-print(f"The dot product of the vectors is: {ans}")
+print(f"The dot product of vectors is: {ans}")
