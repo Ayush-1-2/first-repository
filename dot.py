@@ -21,5 +21,3 @@ ans = dot(arr1, arr2)
 print(f"Dot product: {ans}")
 
 print("New changes added to master")
-
-print("More changes added")
