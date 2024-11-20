@@ -20,7 +20,7 @@ $$
 
 Where:
 
-- $$ \( \mathbf{a} \) $$ and $$ ( \mathbf{b} ) $$ are vectors.
+- $$ ( \mathbf{a} ) $$ and $$ ( \mathbf{b} ) $$ are vectors.
 - $$ ( a_i ) $$ and $$ ( b_i ) $$ are the components of the vectors.
 
 ---
