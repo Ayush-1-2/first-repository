@@ -67,5 +67,5 @@ Markdown supports footnotes.[^1] They are useful for adding explanations or refe
 - [x] Completed Task
 - [ ] Incomplete Task
 
->[!ALERT]
->This is an alert.  
+> [!NOTE]
+> This is an alert.  
